@@ -8,7 +8,7 @@ aliases:
   - Anil S. Thanki
 links:
   google-scholar: _dyCbwsAAAAJ&sortby=pubdate
-  home-page: anilthanki.github.io
+  home-page: https://anilthanki.github.io
   github: anilthanki
   orcid: 0000-0002-8941-444X
   email: anil.thanki@mbzuai.ac.ae
@@ -23,7 +23,7 @@ Anil is a Research Scientist in the Computational Biology and Cancer Regulatory 
 
 - _PhD in Bioinformatics_, University of East Anglia, UK (2020)
 - _Masters of Science in Bioinformatics_, University of Leicester, UK (2011)
-- _Bachelor of Science in Bioinformatics_, Saurashtra University, India (2009)
+- _Bachelors of Science in Bioinformatics_, Saurashtra University, India (2009)
 
 ## Experience
 
